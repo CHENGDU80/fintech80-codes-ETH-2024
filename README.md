@@ -1,1 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ntblLdKs)
+# chengdu80-eth
+
+## frontend
+
+```
+cd frontend
+yarn start
+```
+
+## backend
+
+```
+cd backend
+python3 -m venv chengdu80_env
+source chengdu80_env/bin/activate
+pip install -r requirements.txt
+python3 app.py
+```

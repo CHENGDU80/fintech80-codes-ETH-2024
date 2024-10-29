@@ -1,0 +1,20 @@
+ID,Autonomy_level,Roadway Type,Roadway Surface,Posted Speed Limit (MPH),Lighting,Weather,Mileage,Usage_year,Speed,Acceleration,Disengagement,Crush,Collision Type,Incident Severity,Insurance Cost,Cornering,Distance_to_next_car
+30c25b58-d8a0-4e01-a240-9802a0638a55,ADS,Urban,Dry,40,Daylight,Clear,18497,1,33,normal,0,0,,,,Smooth,32
+356a3ab3-8820-4a90-98ba-55363b24914f,ADS,Urban,Dry,25,Daylight,Cloudy,19774,2,19,normal,1,0,,,,Smooth,17
+8deca3cd-1a26-44f3-9178-f3fc7393597a,ADS,Parking lot,Dry,10,Daylight,Clear,2793,0,5,normal,0,0,,,,Smooth,13
+37f435e9-aec5-47c0-aad8-4b41edfb6bc8,ADS,Urban,Wet,30,Daylight,Rain,8955,1,13,normal,0,0,,,,Smooth,30
+ed1a97ad-3f1e-4607-b128-28d23a5aa20c,ADS,Urban,Dry,40,Dark - Lighted,Clear,11002,1,28,normal,0,0,,,,Smooth,48
+ab40438b-5fab-4bf1-92ae-23a574f347b6,ADS,Highway,Dry,65,Daylight,Clear,10710,0,55,normal,0,0,,,,Smooth,58
+eb85980b-68e1-4fb0-9807-202626498251,ADS,Urban,Dry,35,Dawn / Dusk,Clear,16535,0,15,normal,1,0,,,,Aggressive,24
+7fb67fe7-d7a5-4bef-bc68-a8777965e4a5,ADS,Highway,Dry,60,Daylight,Clear,8488,1,57,normal,0,0,,,,Smooth,60
+38ecb4c1-26df-4eb3-9fbe-0b4989d48430,ADS,Parking lot,Dry,10,Daylight,Clear,22791,3,5,normal,0,0,,,,Smooth,12
+f1372fb8-1517-4b83-91ae-40db5ef2bc30,ADS,Highway,Dry,70,Daylight,Clear,14009,0,70,normal,0,0,,,,Smooth,77
+d1dbc73f-2d50-4b86-bf2f-34020581644c,ADS,Rural,Wet,60,Dark - Lighted,Rain,16114,2,46,normal,0,1,Side,Minor,2200,Smooth,12
+17807f80-c772-4759-bd7e-03251f9bfabc,ADS,Urban,Dry,25,Dark - Lighted,Clear,55776,3,2,hard_braking,0,1,Rear,Minor,1803,Smooth,12
+a64aa557-8a5d-4345-a47c-a6a790638603,ADS,Highway,Dry,70,Daylight,Clear,11109,0,70,risky,0,1,Rear,Minor,3202,Smooth,28
+70580eae-a2cd-469d-8945-ba61f41abbd2,ADS,Highway,Dry,55,Dawn / Dusk,Clear,10832,0,46,normal,0,1,Front,Major,17234,Smooth,16
+cfda1b7a-0528-4454-82a9-7574d2e5f55f,NONE,Urban,Wet,30,Daylight,Rain,143433,9,15,normal,0,0,,,,Smooth,30
+ed542f9e-48bf-48e8-8024-b67e2163451e,NONE,Urban,Dry,30,Daylight,Clear,54005,5,27,normal,0,0,,,,Smooth,30
+9ae4cdd1-c11f-4b01-9e0c-b8cc50774435,NONE,Highway,Dry,55,Daylight,Clear,254460,12,60,normal,0,0,,,,Smooth,55
+376bc771-a70b-4dac-b06b-86a746e6a2a8,NONE,Rural,Dry,60,Daylight,Clear,94878,7,59,normal,0,0,,,,Smooth,54
+be6586bb-0498-4271-b006-ef0bde8e9f9f,NONE,Highway,Wet,65,Daylight,Rain,18309,1,60,normal,0,0,,,,Smooth,65

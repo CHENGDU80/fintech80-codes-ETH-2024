@@ -1,0 +1,9 @@
+.red-row {
+  background-color: rgb(253, 86, 86);
+}
+
+/* Ensure the row stays blue as long as it's hovered */
+.ant-table-tbody>tr:hover>td {
+  background-color: #b8e9ff4f !important;
+  /* Light blue color on hover */
+}

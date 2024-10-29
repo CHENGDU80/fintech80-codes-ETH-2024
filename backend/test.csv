@@ -1,0 +1,21 @@
+ID,Autonomy_level,Roadway Type,Roadway Surface,Posted Speed Limit (MPH),Lighting,Weather,Mileage,Usage_year,Speed,Acceleration,Disengagement,Cornering,Distance_to_next_car
+eeaa41d2-980c-4eca-8a7b-9fce929c9e06,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,32,normal,0,Smooth,55
+eeaa41d2-980c-4eca-8a7b-9fce929c9e07,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,30,normal,0,Smooth,52
+eeaa41d2-980c-4eca-8a7b-9fce929c9e08,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,31,normal,0,Smooth,51
+eeaa41d2-980c-4eca-8a7b-9fce929c9e09,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,30,normal,0,Smooth,53
+eeaa41d2-980c-4eca-8a7b-9fce929c9e10,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,31,normal,0,Smooth,51
+eeaa41d2-980c-4eca-8a7b-9fce929c9e11,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,30,normal,0,Smooth,53
+eeaa41d2-980c-4eca-8a7b-9fce929c9e12,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,30,normal,0,Smooth,48
+eeaa41d2-980c-4eca-8a7b-9fce929c9e13,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,30,normal,0,Smooth,48
+eeaa41d2-980c-4eca-8a7b-9fce929c9e14,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,28,normal,0,Smooth,45
+eeaa41d2-980c-4eca-8a7b-9fce929c9e15,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,26,normal,0,Smooth,43
+eeaa41d2-980c-4eca-8a7b-9fce929c9e16,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,24,normal,0,Smooth,40
+eeaa41d2-980c-4eca-8a7b-9fce929c9e17,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,21,normal,0,Smooth,39
+eeaa41d2-980c-4eca-8a7b-9fce929c9e18,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,20,normal,0,Smooth,41
+eeaa41d2-980c-4eca-8a7b-9fce929c9e19,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,10,hard_braking,0,Smooth,5
+eeaa41d2-980c-4eca-8a7b-9fce929c9e20,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,3,hard_braking,0,Smooth,1
+eeaa41d2-980c-4eca-8a7b-9fce929c9e21,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,0,hard_braking,0,Smooth,3
+eeaa41d2-980c-4eca-8a7b-9fce929c9e22,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,2,normal,0,Smooth,2
+eeaa41d2-980c-4eca-8a7b-9fce929c9e23,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,3,normal,0,Smooth,1
+eeaa41d2-980c-4eca-8a7b-9fce929c9e24,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,0,normal,0,Smooth,1
+eeaa41d2-980c-4eca-8a7b-9fce929c9e25,ADAS,Urban,Dry,35,Dark - Lighted,Clear,30964,3,0,normal,0,Smooth,1
