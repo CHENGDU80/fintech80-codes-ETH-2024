@@ -1,4 +1,4 @@
-# chengdu80-eth
+# chengdu80 2024 ETH Zurich
 
 ## frontend
 
